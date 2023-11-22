@@ -13,7 +13,7 @@
 ## Установка и запуск
 ```sh
 npm i request
-node indexv2
+node index
 ```
 
 # Получение хеша для рекламы
