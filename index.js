@@ -1,5 +1,5 @@
 const uri = "https://slaves-app.ru/api.php?"
-const tokenvk = "vk1.a.TLYhc2ag7_LspXyxobQ0sSVAolkMS37rfO-NrQiJ-RyH7_gS6CqHNHRJ_jr2ciahGRPKMr_bn7bfiqccy7dFZzuFTfib43HDVmoMBcri4YULZQqE3eRei0KRX5ukyVm_iw3auOCOtrZKPVuLC4-5aa1ucv9njWLpmLRHcBLB-yMQxQJ3HNDN9ueE_NAjYOHD9FWf_whV1t97QDxDImWqAQ"
+const tokenvk = "vk1.a.TOKEN"
 
 const request = require('request');
 const { log } = require('./other')
